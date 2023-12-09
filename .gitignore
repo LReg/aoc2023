@@ -1,0 +1,4 @@
+.idea
+*.exe
+day3/1/node_modules
+day3/1/ts/node_modules
